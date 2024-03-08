@@ -1,2 +1,1 @@
-Sejam bem vindos, esse é meu perfil git
-sou estudante de ciência da computação
+Sejam bem vindos, esse é meu perfil git \nsou estudante de ciência da computação
